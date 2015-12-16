@@ -1,3 +1,4 @@
 # myRepo1
 first try =)
-hala bala
+hala bala --cosi navyse =)
+pridany riadok
